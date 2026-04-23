@@ -30,5 +30,5 @@ Il team ha lavorato seguendo la metodologia Agile. Di seguito la ripartizione de
 ---
 
 ### 🔗 Risorse del Progetto
-* **Repository GitHub (Codice Sorgente):** [**Clicca Qui**](https://studio.code.org/projects/applab/040d376c-e741-42ae-9cef-0f931e8fc129)
+* **Repository GitHub (Codice Sorgente):** [**Clicca Qui**](https://github.com/lorezjs09/fishadventure)
 * **Progetto Live (Code.org):** [**Clicca Qui**](https://studio.code.org/projects/applab/040d376c-e741-42ae-9cef-0f931e8fc129)
